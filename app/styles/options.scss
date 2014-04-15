@@ -1,0 +1,15 @@
+.bar-options {
+
+  .table {
+    border: $border;
+
+    .glyphicon {
+      font-size: 2em;
+    }
+
+    .glyphicon-ok {
+      color: $success-color;
+    }
+  }
+
+}
